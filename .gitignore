@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+chroma_db/
+.pytest_cache/
+pyproject.toml
